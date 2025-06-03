@@ -136,6 +136,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+anaconda_projects
 
 # Spyder project settings
 .spyderproject
